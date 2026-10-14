@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CHIP-M1%20MAX-2b2b2b?style=for-the-badge&logo=apple&logoColor=white&labelColor=2b2b2b&color=2b2b2b" alt="Chip: Intel i9" />
-  <img src="https://img.shields.io/badge/🧠%20RAM-64%20GB-2b2b2b?style=for-the-badge&labelColor=2b2b2b&color=2b2b2b" alt="RAM: 16 GB" />
-  <img src="https://img.shields.io/badge/💾%20SSD-2%20TB-2b2b2b?style=for-the-badge&labelColor=2b2b2b&color=2b2b2b" alt="SSD: 1 TB" />
+  <img src="https://img.shields.io/badge/CHIP-intel%20i9-2b2b2b?style=for-the-badge&logo=apple&logoColor=white&labelColor=2b2b2b&color=2b2b2b" alt="Chip: Intel i9" />
+  <img src="https://img.shields.io/badge/🧠%20RAM-16%20GB-2b2b2b?style=for-the-badge&labelColor=2b2b2b&color=2b2b2b" alt="RAM: 16 GB" />
+  <img src="https://img.shields.io/badge/💾%20SSD-1%20TB-2b2b2b?style=for-the-badge&labelColor=2b2b2b&color=2b2b2b" alt="SSD: 1 TB" />
 </p>
 
 ### CONNECT WITH ME:
